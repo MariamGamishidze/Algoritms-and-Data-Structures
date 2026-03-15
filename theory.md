@@ -1,5 +1,5 @@
 ### week#1
-An *algorithm* is an exact description of a finite sequence of steps for solving a given problem.
+An **algorithm** is an exact description of a finite sequence of steps for solving a given problem.
 
 ## Main properties of an algorithm
 ### 1.FINITENESS
